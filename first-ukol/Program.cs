@@ -1,5 +1,4 @@
 ﻿using System.Diagnostics;
-using System.Diagnostics;
 using System.Linq;
 string user_input;
 int volba;
